@@ -4,7 +4,9 @@ This folder contains the foundational Define-stage documents that establish the 
 |----------------------|------------------------------------------------------------------|
 | Project_Charter.md   | Business case, SMART goals, team, and scope                      |
 | Problem_Statement.md | Detailed description with current vs. target data and financial/operational impact |
-01 — وثيقة المشروع
+
+01 — وثيقة المشروع 
+
 يحتوي هذا المجلد على الوثائق الأساسية لمرحلة التحديد التي تُحدد غرض المشروع وحدوده واتجاهه.
 
 | الملف                | الوصف                                                                 |
