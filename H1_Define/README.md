@@ -2,7 +2,7 @@
 
 This folder contains the complete "Define" phase artifacts for the Water Bottling Company process improvement project. The objective is to clearly frame the problem, establish measurable goals, understand the process boundaries, translate customer needs into CTQs, and identify all key stakeholders.
 
-**Folder Contents**🗂️
+**Folder Contents** 🗂️
 
 | Folder                     | Description                                              |
 |---------------------------|----------------------------------------------------------|
@@ -12,7 +12,7 @@ This folder contains the complete "Define" phase artifacts for the Water Bottlin
 | 04_Stakeholder_Analysis/  | Full stakeholder identification, mapping, engagement, and risk |
 
 
-**Key Findings**⛳️
+**Key Findings** ⛳️
 
 **Operational Inefficiency**: The Emergency Department experiences prolonged door-to-doctor time averaging 95 minutes against a target of ≤45 minutes. Patient length of stay reaches 4.6 hours vs ≤3 hours, driven by delays in triage, registration, and bed availability.
 
