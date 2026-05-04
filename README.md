@@ -4,7 +4,7 @@ This repository contains all artifacts for the end-to-end DMAIC (Define, Measure
 
 Emergency Department DMAIC Process Improvement Project for Health Holding Company. Focused on reducing patient wait times, improving flow efficiency, and enhancing quality of care through data-driven analysis.
 
-Repository Structure 📊
+**Repository Structure** 📊
 
 | Phase   | Folder        | Status        |
 |--------|--------------|--------------|
@@ -15,14 +15,14 @@ Repository Structure 📊
 | Control| H5_Control/  | 🔜 Upcoming  |
 
 
-Project Overview 📑 
+**Project Overview** 📑 
 
 Organization: Health Holding Company
 Scope: Emergency Department operations (triage, registration, diagnosis, treatment, discharge)
 Services: Adult emergency care, pediatric emergency care, critical cases
 
 
-Key Performance Gaps 📌
+**Key Performance Gaps** 📌
 
 | Metric                     | Current Performance | Target Performance |
 |--------------------------|--------------------|--------------------|
