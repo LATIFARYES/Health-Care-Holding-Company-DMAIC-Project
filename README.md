@@ -6,10 +6,29 @@ Emergency Department DMAIC Process Improvement Project for Health Holding Compan
 
 Repository Structure 📊
 
+| Phase   | Folder        | Status        |
+|--------|--------------|--------------|
+| Define | H1_Define/   | ✅ Complete   |
+| Measure| H2_Measure/  | 🔜 Upcoming  |
+| Analyze| H3_Analyze/  | 🔜 Upcoming  |
+| Improve| H4_Improve/  | 🔜 Upcoming  |
+| Control| H5_Control/  | 🔜 Upcoming  |
 
 
 Project Overview 📑 
 
+Organization: Health Holding Company
+Scope: Emergency Department operations (triage, registration, diagnosis, treatment, discharge)
+Services: Adult emergency care, pediatric emergency care, critical cases
+
+
 Key Performance Gaps 📌
 
+| Metric                     | Current Performance | Target Performance |
+|--------------------------|--------------------|--------------------|
+| Door-to-Doctor Time      | 95 minutes         | ≤ 45 minutes       |
+| Length of Stay (LOS)     | 4.6 hours          | ≤ 3 hours          |
+| Left Without Being Seen  | 8%                 | ≤ 2%               |
+| Patient Satisfaction     | 78%                | ≥ 90%              |
+| Triage Time              | 15 minutes         | ≤ 5 minutes        |
  
