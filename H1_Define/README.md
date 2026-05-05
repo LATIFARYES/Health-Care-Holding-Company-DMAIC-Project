@@ -1,4 +1,20 @@
 **Define Stage**📍
+Health-Care-Holding-Company-Six Sigma DMAIC Project
+
+__Purpose: The Define phase is the foundation of the entire DMAIC project. Its goal is to clearly articulate what the problem is, who is affected, what the boundaries of the project are, and what success looks like — before any data is collected or solutions are proposed__ 
+
+---What Is the Define Phase?---
+The Define phase answers four fundamental questions:
+
+| Question                     | Tool Used              | Output                                   |
+|----------------------------|------------------------|------------------------------------------|
+| What is the problem?       | Project Charter        | Problem Statement, Goal Statement        |
+| What does the process look like? | SIPOC            | High-level process map                   |
+| What do customers need?    | VOC → CTQ              | Critical-to-Quality requirements         |
+| Who are the stakeholders?  | Stakeholder Analysis   | Engagement plan, risk register           |
+
+
+
 
 This folder contains the complete "Define" phase artifacts for the Water Bottling Company process improvement project. The objective is to clearly frame the problem, establish measurable goals, understand the process boundaries, translate customer needs into CTQs, and identify all key stakeholders.
 
