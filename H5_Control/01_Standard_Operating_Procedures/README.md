@@ -4,3 +4,5 @@
 
 __The Control phase answers one question: "How do we sustain the improvements and prevent reverting to old habits?"__
 
+**Folder Structure** 🗂️
+
