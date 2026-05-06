@@ -26,6 +26,7 @@ Who is responsible? (Project Team)
 When will the project be completed? (Timeline)
 
 **Key Sections Explained 🔍** 
+
 Business Case
 
 The business case explains why the project is important and why resources should be allocated.
