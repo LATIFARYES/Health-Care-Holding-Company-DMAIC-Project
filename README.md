@@ -1,7 +1,5 @@
 # Health-Care-Holding-Company-Emergency Department (ED) DMAIC Process Improvement Project 🩻⛑️🩺🏥👩🏻‍⚕️🧑🏻‍⚕️
 
-This repository contains all artifacts for the end-to-end DMAIC (Define, Measure, Analyze, Improve, Control) process improvement project for the regional Water Bottling Company. The project targets three critical operational problems: high production downtime (18%), elevated defect rates (4.5%), and declining on-time order fulfillment (82%).
-
 Emergency Department DMAIC Process Improvement Project for Health Holding Company. Focused on reducing patient wait times, improving flow efficiency, and enhancing quality of care through data-driven analysis.
 
 **Repository Structure** 📊
@@ -9,11 +7,11 @@ Emergency Department DMAIC Process Improvement Project for Health Holding Compan
 | Phase   | Folder        | Status        |
 |--------|--------------|--------------|
 | Define | H1_Define/   | ✅ Complete   |
-| Measure| H2_Measure/  | 🔜 Upcoming  |
-| Analyze| H3_Analyze/  | 🔜 Upcoming  |
-| Improve| H4_Improve/  | 🔜 Upcoming  |
-| Control| H5_Control/  | 🔜 Upcoming  |
-| Training Plan| H6_Guide/ | 🔜 Upcoming  |
+| Measure| H2_Measure/  |✅ Complete |
+| Analyze| H3_Analyze/  | ✅ Complete |
+| Improve| H4_Improve/  |✅ Complete  |
+| Control| H5_Control/  | ✅ Complete  |
+| Training Plan| H6_Guide/ | ✅ Completed  |
 
 
 **Project Overview** 📑 
@@ -33,3 +31,34 @@ Services: Adult emergency care, pediatric emergency care, critical cases
 | Patient Satisfaction     | 78%                | ≥ 90%              |
 | Triage Time              | 15 minutes         | ≤ 5 minutes        |
  
+
+مشروع تحسين العمليات لقسم الطوارئ في الشركة القابضة الصحية 🩻⛑️🩺🏥👩🏻‍⚕️🧑🏻‍⚕️(DMAIC)
+
+مشروع تحسين عمليات قسم الطوارئ باستخدام منهجية DMAIC للشركة القابضة الصحية يهدف إلى تقليل أوقات انتظار المرضى وتحسين كفاءة تدفق العمل ورفع جودة الرعاية الصحية من خلال تحليل البيانات واتخاذ قرارات مبنية على مؤشرات الأداء.
+
+هيكل المشروع 📊
+المرحلة	المجلد	الحالة
+التعريف	H1_Define/	✅ مكتمل
+القياس	H2_Measure/	✅ مكتمل
+التحليل	H3_Analyze/	✅ مكتمل
+التحسين	H4_Improve/	✅ مكتمل
+التحكم	H5_Control/	✅ مكتمل
+خطة التدريب	H6_Guide/	✅ مكتمل
+نظرة عامة على المشروع 📑
+
+الجهة: الشركة القابضة الصحية
+النطاق: عمليات قسم الطوارئ (الفرز، التسجيل، التشخيص، العلاج، الخروج)
+الخدمات:
+
+رعاية طوارئ للبالغين
+رعاية طوارئ للأطفال
+التعامل مع الحالات الحرجة
+
+فجوات الأداء الرئيسية
+📌
+المؤشر	الأداء الحالي	الأداء المستهدف
+وقت الدخول إلى الطبيب	95 دقيقة	≤ 45 دقيقة
+مدة بقاء المريض (LOS)	4.6 ساعات	≤ 3 ساعات
+نسبة مغادرة المرضى قبل الكشف	8%	≤ 2%
+رضا المرضى	78%	≥ 90%
+وقت الفرز (Triage)	15 دقيقة	≤ 5 دقائق
