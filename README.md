@@ -1,4 +1,4 @@
-# Health-Care-Holding-Company-DMAIC Process Improvement Project 🩻⛑️🩺🏥👩🏻‍⚕️🧑🏻‍⚕️
+# Health-Care-Holding-Company-Emergency Department (ED) DMAIC Process Improvement Project 🩻⛑️🩺🏥👩🏻‍⚕️🧑🏻‍⚕️
 
 This repository contains all artifacts for the end-to-end DMAIC (Define, Measure, Analyze, Improve, Control) process improvement project for the regional Water Bottling Company. The project targets three critical operational problems: high production downtime (18%), elevated defect rates (4.5%), and declining on-time order fulfillment (82%).
 
