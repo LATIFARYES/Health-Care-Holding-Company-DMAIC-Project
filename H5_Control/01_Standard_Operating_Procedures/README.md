@@ -1,8 +1,6 @@
-**H5 — Control Phase**
+01 — Standard Operating Procedures (SOPs)
+Water Bottling Company | Control Phase
+Purpose: To document the new, improved methods of working so that they become the standard across all shifts and new hires.
 
-**Health-Care-Holding-Company-DMAIC-Project**
-
-__The Control phase answers one question: "How do we sustain the improvements and prevent reverting to old habits?"__
-
-**Folder Structure** 🗂️
+Updated SOPs
 
