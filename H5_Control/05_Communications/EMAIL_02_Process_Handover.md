@@ -1,22 +1,25 @@
+Formal Handover — Emergency Department DMAIC Project Controls
 
-Process Owner Handover
+Dear Emergency Department Leadership Team,
 
-
-Subject: Formal Handover — 6S Project Controls
-
-Dear Ahmed Al-Fahad,
-
-This email serves as the formal handover of the improved processes from the 6S project team to you, the Process Owner.
+This email serves as the formal handover of the improved Emergency Department operational processes from the DMAIC project team to the designated Process Owners.
 
 Attached you will find:
 
 The finalized Control Plan
 The updated Standard Operating Procedures (SOPs)
-The Statistical Process Control (SPC) charts links
-The Training Handover document
-Our team will remain available for support over the next 30 days during the transition period.
+The Statistical Process Control (SPC) monitoring guidelines
+The Training & Handover documentation
+The KPI monitoring and escalation framework
 
-Thank you for your leadership in sustaining these improvements.
+The Emergency Department leadership and operational teams are now responsible for sustaining the implemented improvements, monitoring performance indicators, and maintaining compliance with the standardized workflows.
 
-Best regards, Latifa
+Our project team will remain available for operational support and clarification during the next 30 days to ensure a smooth transition period.
+
+Thank you for your leadership, collaboration, and commitment to sustaining these operational improvements and enhancing patient care delivery.
+
+Best regards,
+Latifa
+DMAIC Improvement Team
+Health Holding Company
 
