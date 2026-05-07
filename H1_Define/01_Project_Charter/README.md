@@ -86,6 +86,15 @@ Enhance quality of emergency care
 | Staff scheduling optimization | Hospital expansion projects |
 | Critical vs minor case separation | Non-emergency clinics |
 
+| داخل النطاق (IS) | خارج النطاق (IS NOT) |
+|------------------|----------------------|
+| عملية فرز المرضى (Triage) | أقسام التنويم داخل المستشفى |
+| تسجيل مرضى الطوارئ | عمليات الصيدلية |
+| تطبيق مسار Fast Track | موافقات التأمين |
+| مراقبة وقت الانتظار | أنظمة التحويل الخارجية |
+| تحسين جدولة الكوادر | مشاريع توسعة المستشفى |
+| فصل الحالات الحرجة عن البسيطة | العيادات غير الطارئة |
+
 
 **Team Roles (RACI) 👥**
 
