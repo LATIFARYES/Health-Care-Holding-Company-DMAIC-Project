@@ -17,6 +17,28 @@ Folder Structure 📁
 | 05_Communications/ | Emails & Meeting Notes | Coordinate implementation activities |
 | 06_Training_Plan/ | Training Materials | Train staff on new workflows and protocols |
 
+| عنصر ADKAR | الهدف |
+|-------------|--------|
+| Awareness | توضيح أهمية التغيير |
+| Desire | إشراك الموظفين |
+| Knowledge | تدريب الموظفين |
+| Ability | دعم التطبيق |
+| Reinforcement | المتابعة وتحفيز الأداء |
+
+| KPI | الحالي | الهدف |
+|-----|---------|--------|
+| Door-to-Doctor | 95 دقيقة | أقل من 45 دقيقة |
+| Length of Stay | 4.6 ساعات | أقل من 3 ساعات |
+| Triage Time | 15 دقيقة | أقل من 5 دقائق |
+| LWBS | 8% | أقل من 2% |
+| Patient Satisfaction | 78% | أكثر من 90% |
+
+| عنصر COM-B | التطبيق في قسم الطوارئ |
+|-------------|------------------------|
+| Capability (القدرة) | تدريب الموظفين على سير العمل التشغيلي الجديد |
+| Opportunity (الفرصة) | توفير لوحات متابعة وأدوات واضحة لتوجيه المرضى |
+| Motivation (التحفيز) | مشاركة نتائج التحسين وتأثيرها على المرضى |
+
 
 Improvement Plan for Root Causes 🚨
 
