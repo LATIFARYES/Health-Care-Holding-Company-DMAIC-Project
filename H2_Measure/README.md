@@ -9,7 +9,7 @@ This folder contains data collection and measurement artifacts Health-Care-Holdi
  Folder Contents 📂
  | File / Folder | Description |
 |----------------|-------------|
-| Data_Response_6Months_ED.xlsx | Full 3-month Emergency Department operational dataset |
+| Data_Response_3Months_ED.xlsx | Full 3-month Emergency Department operational dataset |
 | Findings/D2_Measure_Findings_ED.xlsx | Measure Phase findings workbook with KPI analysis and charts |
 | Charts/ | High-resolution PNG charts generated from operational data |
 | 05_Communications/ | Official communications for the Measure phase |
